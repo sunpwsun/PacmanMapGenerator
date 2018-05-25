@@ -1,0 +1,11 @@
+c:\users\sun\source\repos\Pacman Map Generator\Pacman Map Generator\bin\Debug\Pacman Map Generator.exe.config
+c:\users\sun\source\repos\Pacman Map Generator\Pacman Map Generator\bin\Debug\Pacman Map Generator.exe
+c:\users\sun\source\repos\Pacman Map Generator\Pacman Map Generator\bin\Debug\Pacman Map Generator.pdb
+c:\users\sun\source\repos\Pacman Map Generator\Pacman Map Generator\obj\Debug\Pacman Map Generator.csprojResolveAssemblyReference.cache
+c:\users\sun\source\repos\Pacman Map Generator\Pacman Map Generator\obj\Debug\Pacman_Map_Generator.Form1.resources
+c:\users\sun\source\repos\Pacman Map Generator\Pacman Map Generator\obj\Debug\Pacman_Map_Generator.Properties.Resources.resources
+c:\users\sun\source\repos\Pacman Map Generator\Pacman Map Generator\obj\Debug\Pacman Map Generator.csproj.GenerateResource.Cache
+c:\users\sun\source\repos\Pacman Map Generator\Pacman Map Generator\obj\Debug\Pacman Map Generator.csproj.CoreCompileInputs.cache
+c:\users\sun\source\repos\Pacman Map Generator\Pacman Map Generator\obj\Debug\Pacman Map Generator.exe
+c:\users\sun\source\repos\Pacman Map Generator\Pacman Map Generator\obj\Debug\Pacman Map Generator.pdb
+c:\users\sun\source\repos\Pacman Map Generator\Pacman Map Generator\obj\Debug\Pacman_Map_Generator.Map.resources
